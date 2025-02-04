@@ -1,5 +1,4 @@
-## Hi there 👋
-### 🌱 I’m currently learning Github
+## ✨ Welcome ✨
 <!--
 **IamCephP/IamCephP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
